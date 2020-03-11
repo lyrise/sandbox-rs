@@ -1,4 +1,4 @@
-# Sandbox for Rust
+# Sandbox
 
 ## License
 
